@@ -4,4 +4,4 @@ The program maintains a full, identical copy of source folder at replica folder.
 The synchronization is unidirectional from source to replica.
 
 # Command-line use:
-folder_sync.py /path/to/source_folder /path/to/replica_folder sync-time-sec-int /path/to/logfile.log
+folder_sync.py /path/to/source_folder /path/to/replica_folder sync-time-sec-int /path/to/log_file.log
