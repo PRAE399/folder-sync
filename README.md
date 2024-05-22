@@ -4,4 +4,4 @@
 - The synchronization is unidirectional from source to replica.
 
 # Command-line use:
-folder_sync.py /path/to/source_folder /path/to/replica_folder sync-time-sec-int /path/to/log_file.log
+python folder_sync.py /path/to/source_folder /path/to/replica_folder sync-time-sec-int /path/to/log_file.log
