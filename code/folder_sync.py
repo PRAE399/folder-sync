@@ -3,7 +3,7 @@ from hashlib import sha256
 from argparse import ArgumentParser
 
 # ==== Comments === #
-# Both MD50 and SHA256 could be used for this project, depending on the context.
+# Both MD5 and SHA256 could be used for this project, depending on the context.
 # SHA256 was chosen for being more secure.
 # MD50 could be used for a faster hash calculation.
 
